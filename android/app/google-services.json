@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155628763157",
+    "project_id": "lego-d7130",
+    "storage_bucket": "lego-d7130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155628763157:android:c58eec802747bb86d7b61c",
+        "android_client_info": {
+          "package_name": "com.lego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155628763157-0eo6hffgn0r8q8ff894segt7htf8dl2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYW7LGEz0WLLHWRFioTrvF4GKGbascvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155628763157-0eo6hffgn0r8q8ff894segt7htf8dl2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
